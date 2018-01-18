@@ -1,0 +1,64 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, p {
+  font-family: Lato;
+}
+
+.main {
+  padding: 1em;
+}
+.lang-list {
+  list-style: none;
+}
+
+.head {
+  margin: 5px;
+  text-align: center;
+}
+
+.repo-links {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.star i{
+  margin-left: 5px;
+}
+
+.flex-box {
+  display: flex;
+  justify-content: space-around
+}
+.card {
+  margin: 10px 5px;
+  padding: 10px;
+}
+
+.w-20 {
+  width:20%;  
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.centrize {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.aligned-center {
+  align-items: center;
+  justify-content: space-around;
+}
+
+.m-b-0 {
+
+}
